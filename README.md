@@ -2,4 +2,4 @@
 
 # Picture of wiring of the car
 [car]
-[car]: https://github.com/nick-gl/FPGA-RC-car-/Images/RC_Car .jpg "car"
+[car]: https://github.com/nick-gl/FPGA-RC-car-/Images/RC_Car.jpg "car"
