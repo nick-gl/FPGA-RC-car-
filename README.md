@@ -10,4 +10,6 @@ The code for the project is pretty simple. I take the input from the receiver an
 
 ![RC Car Wiring](Images/RC_Car.jpg)
 
-# Video of the car working
+## Video of the car working
+
+[RC car demo](Images/RC_Car.mp4)
