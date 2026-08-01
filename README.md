@@ -12,6 +12,4 @@ The code for the project is pretty simple. I take the input from the receiver an
 
 ## Demo Video
 
-[RC Car Demo](Images/RC_Car.jpg)](https://youtube.com/shorts/_K2Cdk5xo7o?feature=share)
-
 ▶ https://youtube.com/shorts/_K2Cdk5xo7o?feature=share
